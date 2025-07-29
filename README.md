@@ -50,7 +50,7 @@ It is recommended to use a separate Python Virtual Environment for this project 
 
 #### ➡️ Create a Virtual Environment
 ```bash
-python -m venv PyaazSamachaarEnv
+python3 -m venv PyaazSamachaarEnv
 ```
 
 #### ➡️ Activate the Virtual Environment
