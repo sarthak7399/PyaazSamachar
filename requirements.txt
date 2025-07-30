@@ -15,3 +15,7 @@ pyyaml
 prefect
 pytest
 jupyter-notebook
+pandas
+requests
+nbformat
+ipykernel
