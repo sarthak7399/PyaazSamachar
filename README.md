@@ -73,6 +73,15 @@ When you’re done working:
 deactivate
 ```
 
+#### ➡️ Add Your Virtual Environment as a Jupyter Kernel 🧑‍💻
+
+So you can use this environment directly inside your notebooks:
+```bash
+python3 -m ipykernel install --user --name=pyazsamachar-env --display-name "PyazSamachar venv"
+```
+
+> Select **"PyazSamachar venv"** as the kernel when running Jupyter Notebook or Lab.
+
 ### 3️⃣ Install Required Packages
 
 With the virtual environment activated, install dependencies:
